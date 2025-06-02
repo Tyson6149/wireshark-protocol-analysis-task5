@@ -75,8 +75,10 @@ This exercise improved my hands-on skills in:
 
 ---
 
-**Author:**  
-Yadidiah Sangem  
+## Author
+Yadidah Gangaram Sangem
+Cybersecurity Enthusiast & 1st-Year Computer Engineering Student
+Xavier Institute of Engineering, Mumbai
 
 
 
