@@ -59,7 +59,8 @@ The goal of this task was to capture live network traffic using Wireshark and id
 
 ## Deliverables
 
-📁 `task5_capture.pcapng`  
+📁 `task5_capture.pcapng` (📥 [Download Capture File](https://drive.google.com/file/d/1fefYSNhrEPqaYPEbARViSqc45PLgqujk/view?usp=drive_link)
+ 
 📝 This `README.md` file summarizing the analysis and findings
 
 ---
